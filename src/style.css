@@ -1,0 +1,21 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+table {
+  margin: 0 auto;
+  border: 1px solid #333;
+  border-collapse: collapse;
+}
+
+table td,
+table th {
+  border: 1px solid #333;
+}
+
+table th {
+  background-color: yellow;
+  color: red;
+  cursor: pointer;
+}
